@@ -1,7 +1,7 @@
 <h1 align="left">Hengyu Ni</h1>
 
 <h3 align="left">About me:</h3>
-<p align="left">A fledgling full-stack developer, seeking to learn more.</p>
+<p align="left">Developing full-stack developer seeking to further my knowledge.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
