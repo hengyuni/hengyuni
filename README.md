@@ -1,7 +1,7 @@
 <h1 align="left">Hengyu Ni</h1>
 
 <h3 align="left">About me:</h3>
-<p align="left">Blooming full-stack developer seeking to further my knowledge and refined my tools</p>
+<p align="left">MERN-stack developer with background in traditional sign painting and television production. A lover of music, books, skateboarding, and the outdoors.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
